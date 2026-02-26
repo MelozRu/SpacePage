@@ -1,0 +1,8 @@
+/* CSS стили для logo_place_footer */
+
+.logo_place_footer {
+  background-image: url(../../../images/logo_place_footer.svg);
+  background-repeat: no-repeat; /* убираем повторение фона */
+  background-size: contain; /* масштабируем изображение */
+}
+

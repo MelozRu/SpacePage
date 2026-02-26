@@ -1,0 +1,9 @@
+/* CSS стили для agencies__logo-zone */
+
+.agencies__logo-zone {
+  margin: 80px auto 217px auto;
+  width: 1100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

@@ -1,0 +1,10 @@
+/* CSS стили для секции sagan__book-pic */
+
+.sagan__book-pic {
+  margin: 0;
+  margin-right: 48px;
+  width: 620px;
+  height: 608px;
+  object-fit:cover;
+  object-position: top;
+}

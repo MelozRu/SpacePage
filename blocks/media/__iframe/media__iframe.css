@@ -1,0 +1,16 @@
+/* CSS стили для media__iframe */
+
+.media__iframe {
+  margin: 0 20px 0 0;
+  width: 515px;
+  height: 316px;
+  border: none;
+}
+
+.media__iframe:nth-child(even) {
+  margin: 0;
+}
+
+
+
+

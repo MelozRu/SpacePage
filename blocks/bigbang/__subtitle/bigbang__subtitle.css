@@ -1,0 +1,9 @@
+/* CSS стили для секции bigbang__subtitle */
+
+.bigbang__subtitle {
+  margin: 0;
+  font-size: 36px;
+  font-weight: normal;
+  line-height: 51px;
+  color: #ffffff;
+}
